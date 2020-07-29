@@ -11,5 +11,5 @@
 - 📫 How to reach me: joao.aquino.dev@gmail.com
 - ⚡ Fun fact: I love beer :beers:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-aquino)](https://www.linkedin.com/in/breno-vitório-53a192163)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-aquino)](https://www.linkedin.com/in/joao-aquino)
 [![Gmail Badge](https://img.shields.io/badge/-eMail-blue?style=flat-square&logo=Mail&logoColor=white&link=mailto:joao.aquino.dev@gmail.com)](mailto:joao.aquino.dev@gmail.com)
