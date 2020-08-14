@@ -4,8 +4,8 @@
 
 ### Hello there 👋 welcome to my profile :)
 
-<a href="https://www.instagram.com/whisoer/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/gisabernardess/gisabernardess/blob/master/assets/instagram.png?raw=true" alt="Instagram: @whisoer"/></a>
-<a href="https://www.linkedin.com/in/joao-aquino/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/joao-aquino/joao-aquino/blob/master/assets/linkedin.png?raw=true" alt="LinkedIn: @joaoaquino"/></a>
+<a href="https://www.instagram.com/whisoer/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/whisoer/whisoer/blob/master/assets/instagram.png?raw=true" alt="Instagram: @whisoer"/></a>
+<a href="https://www.linkedin.com/in/joao-aquino/" target="_blank" rel="nofollow"><img align="right" width="23rem" src="https://github.com/whisoer/whisoer/blob/master/assets/linkedin.png?raw=true" alt="LinkedIn: @joaoaquino"/></a>
 
 ---
 
