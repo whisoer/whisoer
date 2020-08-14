@@ -1,5 +1,3 @@
-<img align="left" width="400" height="400" src="https://github.com/whisoer/whisoer/blob/master/public/octocat.png">
-
 # :walking: João Pedro Aquino
 
 ### Hello there 👋 welcome to my profile :)
