@@ -7,7 +7,7 @@
 
 ---
 
-I am a software engineer passionate about frontend all the ecosystem around it! I am always looking to learn and improve my skills through things like reading, self-knowledge, technical courses and events. I love how every day is a new challenge that help me grow as a person.
+I am a software engineer passionate about frontend and all the ecosystem around it! I am always looking to learn and improve my skills through things like reading, a good practice, online courses and events. I love how challenging every day is, giving me the possibility to grow fast as a person.
 
 - 🔭  I’m currently working on BlendIT as Senior Software Engineer
 - 🌱  I’m currently learning React / React Native and Node.js
