@@ -15,7 +15,7 @@ I am a software engineer passionate about frontend and all the ecosystem around 
 - 🤔  I’m looking for help with GraphQL as CI/DI
 - 📫  How to reach me: joao.aquino.dev@gmail.com
 - 🎯 Goal: Deliver the best of technology to everyone
-- ⚡  Fun fact: I love beer :beers:
+- ⚡  Fun fact: I created a drink and named it "Tonho"
 
 <details open>
   <summary>🚀 <b>Skills that I love to talk about</b>:</summary>
