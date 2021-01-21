@@ -9,7 +9,7 @@
 
 I am a software engineer passionate about frontend and all the ecosystem around it! I am always looking to learn and improve my skills through things like reading, podcasts, a good practice, online courses and events. I love how challenging every day is, giving me the possibility to grow fast as a person.
 
-- 🔭  I’m currently working on BlendIT as Senior Software Engineer
+- 🔭  I’m currently working on 3778 as Software Engineer
 - 🌱  I’m currently learning React / React Native and Node.js
 - 👯  I’m looking to collaborate on public projects using Javascript/Typescript
 - 🤔  I’m looking for help with GraphQL as CI/DI
