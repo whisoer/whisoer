@@ -12,7 +12,7 @@ I am a software engineer passionate about frontend and all the ecosystem around 
 - 🔭  I’m currently working on 3778 as Software Engineer
 - 🌱  I’m currently learning React / React Native and Node.js
 - 👯  I’m looking to collaborate on public projects using Javascript/Typescript
-- 🤔  I’m looking for help with GraphQL as CI/DI
+- 🤔  I’m looking for help with GraphQL and Storybook.js
 - 📫  How to reach me: joao.aquino.dev@gmail.com
 - 🎯 Goal: Deliver the best of technology to everyone
 - ⚡  Fun fact: I helped create a drink and named it "Tonho"
